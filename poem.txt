@@ -8,5 +8,6 @@ Green
 Unicorn
 Yellow
 Red
+Fuschia
 These are the colors of my rainbow.
 And the unicorn.
